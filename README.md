@@ -1,4 +1,5 @@
 # Git-demo
+
 This is just a demo repository.
 <br>
-Aurthor: Haseeb Sheikh
+Aurthor: Haseeb Sheikh Student of SIBA
